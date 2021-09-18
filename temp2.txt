@@ -11,7 +11,8 @@ DDEESSCCRRIIPPTTIIOONN
      For each operand that names a _f_i_l_e of a type other than directory, llss
      displays its name as well as any requested, associated information.  For
      each operand that names a _f_i_l_e of type directory, llss displays the names
-     of files contained within that directory, as well as any requested, asso-
+     ofsdfsdf
+     f files contained WITH in that directory, as well as any requested, asso-
      ciated information.
 
      If no operands are given, the contents of the current directory are dis-
@@ -29,7 +30,7 @@ DDEESSCCRRIIPPTTIIOONN
      --AA      List all entries except for _. and _._..  Always set for the super-
              user.
 
-     --aa      Include directory entries whose names begin with a dot (_.).
+     --aa      Include directory entries whose names begin WITH  a dot (_.).
 
      --BB      Force printing of non-printable characters (as defined by
              ctype(3) and current locale settings) in file names as \_x_x_x,
@@ -44,36 +45,33 @@ DDEESSCCRRIIPPTTIIOONN
              long printing (--ll).
 
      --dd      Directories are listed as plain files (not searched recursively).
-
-     --ee      Print the Access Control List (ACL) associated with the file, if
-             present, in long (--ll) output.
-
-     --FF      Display a slash (`/') immediately after each pathname that is a
              directory, an asterisk (`*') after each that is executable, an at
              sign (`@') after each symbolic link, an equals sign (`=') after
-             each socket, a percent sign (`%') after each whiteout, and a ver-
-             tical bar (`|') after each that is a FIFO.
-
-     --ff      Output is not sorted.  This option turns on the --aa option.
-
-     --GG      Enable colorized output.  This option is equivalent to defining
-             CLICOLOR in the environment.  (See below.)
-
-     --gg      This option is only available for compatibility with POSIX; it is
-             used to display the group name in the long (--ll) format output
+ sldfkjldsaf each socket, a percent sign (`%') after each whiteout, and a ver-
+sdlfkjadsflasdfdsafkjasd;kfjl sdjflkasjdfl;kjasdl;fkjlskdjfl;asdfasdjflkjasdl;fkjasdl;kfj;asldkf dsafjlsadkjfl;askd
+sds
+jas
+ldkfj;lasdkfja;sdfsdkfjdls;afjas;df
+     bbbf      Outpufdsadfasdfsadfasdfsadfsafasdfsadfsdafsdafe --aa option. - -GG      Enable colorized output.  This option is equivdfdsfsadlent to defining CLICOLOR in the environment.  (See below.)dsafsdafsadf --gg      This option is only available for compatibility WITH  POSIX; it is used to display the group name in the long (--ll) format output
              (the owner name is suppressed).
 
      --HH      Symbolic links on the command line are followed.  This option is
              assumed if none of the --FF, --dd, or --ll options are specified.
 
-     --hh      When used with the --ll option, use unit suffixes: Byte, Kilobyte,
+     --hh
+    
+    
+     When used WITH  the --ll option, use unit suffixes: Byte, Kilobyte,
              Megabyte, Gigabyte, Terabyte and Petabyte in order to reduce the
              number of digits to three or less using base 2 for sizes.
 
      --ii      For each file, print the file's file serial number (inode num-
              ber).
 
-     --kk      If the --ss option is specified, print the file size allocation in
+     
+    
+    
+     -kk      If the --ss option is specified, print the file size allocation in
              kilobytes, not blocks.  This option overrides the environment
              variable BLOCKSIZE.
 
@@ -110,7 +108,7 @@ DDEESSCCRRIIPPTTIIOONN
 
      --rr      Reverse the order of the sort to get reverse lexicographical
              order or the oldest entries first (or largest files last, if com-
-             bined with sort by size
+             bined WITH  sort by size
 
      --SS      Sort files by size
 
@@ -121,7 +119,7 @@ DDEESSCCRRIIPPTTIIOONN
              listing.  The environment variable BLOCKSIZE overrides the unit
              size of 512 bytes.
 
-     --TT      When used with the --ll (lowercase letter ``ell'') option, display
+     --TT      When used WITH  the --ll (lowercase letter ``ell'') option, display
              complete time information for the file, including month, day,
              hour, minute, second, and year.
 
@@ -143,9 +141,9 @@ DDEESSCCRRIIPPTTIIOONN
              default when output is not to a terminal.
 
      --xx      The same as --CC, except that the multi-column output is produced
-             with entries sorted across, rather than down, the columns.
+             WITH  entries sorted across, rather than down, the columns.
 
-     --%%      Distinguish dataless files and directories with a '%' character
+     --%%      Distinguish dataless files and directories WITH  a '%' character
              in long (--ll) output, and don't materialize dataless directories
              when listing them.
 
@@ -164,8 +162,8 @@ DDEESSCCRRIIPPTTIIOONN
      By default, llss lists one entry per line to standard output; the excep-
      tions are to terminals or when the --CC or --xx options are specified.
 
-     File information is displayed with one or more <blank>s separating the
-     information associated with the --ii, --ss, and --ll options.
+     File information is displayed WITH  one or more <blank>s separating the
+     information associated WITH  the --ii, --ss, and --ll options.
 
    TThhee LLoonngg FFoorrmmaatt
      If the --ll option is given, the following information is displayed for
@@ -222,6 +220,59 @@ DDEESSCCRRIIPPTTIIOONN
                             group permissions, the file is not executable and
                             set-group-ID mode is set.
 
+                            set-group-ID mode is sete
+                            set-gret:set nu
+                            tup-ID mode is set.
+                            set-group-ID mode is set.
+                            set-group-ID mode is set.
+                            set-group-ID mode is set.
+                            set-group-ID mode is set.
+
+
+                            set-group-ID mode is set.
+
+                            set-group-ID mode is set.
+                            set-group-ID mode is set.
+                            set-group-ID mode is set.
+                            set-group-ID mode is set.
+                            set-group-ID mode is set.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      ss     If in the owner permissions, the file is exe-
+
+
+
+                      ss     If in the owner permissions, the file is exe-
+
+
+
+                      ss     If in the owner permissions, the file is exe-
+
+
+
+                      ss     If in the owner permissions, the file is exe-
+
+
+
+
                       ss     If in the owner permissions, the file is exe-
                             cutable and set-user-ID mode is set.  If in the
                             group permissions, the file is executable and set-
@@ -263,7 +314,7 @@ EENNVVIIRROONNMMEENNTT
                      LSCOLORS below.  In addition to the file types mentioned
                      in the --FF option some extra attributes (setuid bit set,
                      etc.) are also displayed.  The colorization is dependent
-                     on a terminal type with the proper termcap(5) capabili-
+                     on a terminal type WITH  the proper termcap(5) capabili-
                      ties.  The default ``cons25'' console has the proper
                      capabilities, but to display the colors in an xterm(1),
                      for example, the TERM variable must be set to
@@ -273,36 +324,126 @@ EENNVVIIRROONNMMEENNTT
                      CLICOLOR_FORCE variable is defined.
 
      CLICOLOR_FORCE  Color sequences are normally disabled if the output isn't
+     CLICOLOR_FORCE  Color sequences are normally disabled if the output isn't
+     CLICOLOR_FORCE  Color sequences are normally disabled if the output isn't
+     CLICOLOR_FORCE  Color sequences are normally disabled if the output isn't
+                     directed to a terminal.  This can be overridden by set-
+                     directed to a terminal.  This can be overridden by set-
+                     directed to a terminal.  This can be overridden by set-
+                     directed to a terminal.  This can be overridden by set-
+     CLICOLOR_FORCE  Color sequences are normally disabled if the output isn't
+                     directed to a terminal.  This can be overridden by set-
+     CLICOLOR_FORCE  Color sequences are normally disabled if the output isn't
+                     directed to a terminal.  This can be overridden by set-
+     CLICOLOR_FORCE  Color sequences are normally disabled if the output isn't
+                     directed to a terminal.  This can be overridden by set-
+     CLICOLOR_FORCE  Color sequences are normally disabled if the output isn't
+                     directed to a terminal.  This can be overridden by set-
+     CLICOLOR_FORCE  Color sequences are normally disabled if the output isn't
+                     directed to a terminal.  This can be overridden by set-
+     CLICOLOR_FORCE  Color sequences are normally disabled if the output isn't
                      directed to a terminal.  This can be overridden by set-
                      ting this flag.  The TERM variable still needs to refer-
                      ence a color capable terminal however otherwise it is not
                      possible to determine which color sequences to use.
 
-     COLUMNS         If this variable contains a string representing a decimal
-                     integer, it is used as the column position width for dis-
-                     playing multiple-text-column output.  The llss utility cal-
-                     culates how many pathname text columns to display based
-                     on the width provided.  (See --CC and --xx.)
 
-     LANG            The locale to use when determining the order of day and
-                     month in the long --ll format output.  See environ(7) for
                      more information.
-
+                     more information.
+                     for which attribute when colors are enabled WITH 
      LSCOLORS        The value of this variable describes what color to use
-                     for which attribute when colors are enabled with
+     LSCOLORS        The value of this variable describes what color to use
+     LSCOLORS        The value of this variable describes what color to use
+     LSCOLORS        The value of this variable describes what color to use
+                     CLICOLOR.  This string is a concatenation of pairs of the
+                     for which attribute when colors are enabled WITH 
+     LSCOLORS        The value of this variable describes what color to use
+     LSCOLORS        The value of this variable describes what color to use
+     LSCOLORS        The value of this variable describes what color to use
+                     for which attribute when colors are enabled WITH 
                      CLICOLOR.  This string is a concatenation of pairs of the
                      format _f_b, where _f is the foreground color and _b is the
                      background color.
 
                      The color designators are as follows:
-
+                     The color designators are as follows:
+                     The color designators are as follows:
+                     The color designators are as follows:
+                     The color designators are as follows:
+                     The color designators are as follows:
+                     The color designators are as follows:
+                     The color designators are as follows:
+                     The color designators are as follows:
+                     The color designators are as follows:
+                     The color designators are as follows:
                            aa     black
+                     The color designators are as follows:
+                           aa     black
+                     The color designators are as follows:
+                           aa     black
+                     The color designators are as follows:
+                           aa     black
+                     The color designators are as follows:
                            bb     red
                            cc     green
                            dd     brown
                            ee     blue
                            ff     magenta
                            gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           gg     cyan
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
+                           hh     light grey
+                           AA     bold black, usually shows up as dark grey
                            hh     light grey
                            AA     bold black, usually shows up as dark grey
                            BB     bold red
@@ -327,10 +468,10 @@ EENNVVIIRROONNMMEENNTT
                            5.   executable
                            6.   block special
                            7.   character special
-                           8.   executable with setuid bit set
-                           9.   executable with setgid bit set
-                           10.  directory writable to others, with sticky bit
-                           11.  directory writable to others, without sticky
+                           8.   executable WITH  setuid bit set
+                           9.   executable WITH  setgid bit set
+                           10.  directory writable to others, WITH  sticky bit
+                           11.  directory writable to others, WITH out sticky
                                 bit
 
                      The default is "exfxcxdxbxegedabagacad", i.e. blue fore-
@@ -347,20 +488,13 @@ EENNVVIIRROONNMMEENNTT
                      flags, file size, file name.
 
      TERM            The CLICOLOR functionality depends on a terminal type
-                     with color capabilities.
+                     WITH  color capabilities.
 
      TZ              The timezone to use when displaying dates.  See
                      environ(7) for more information.
 
 CCOOMMPPAATTIIBBIILLIITTYY
      The group field is now automatically included in the long listing for
-     files in order to be compatible with the IEEE Std 1003.2 (``POSIX.2'')
-     specification.
-
-LLEEGGAACCYY DDEESSCCRRIIPPTTIIOONN
-     In legacy mode, the --ff option does not turn on the --aa option and the --gg,
-     --nn, and --oo options do not turn on the --ll option.
-
      Also, the --oo option causes the file flags to be included in a long (-l)
      output; there is no --OO option.
 
@@ -370,19 +504,25 @@ LLEEGGAACCYY DDEESSCCRRIIPPTTIIOONN
      operation, the output will describe the file.
 
      For more information about legacy mode, see compat(5).
-
-SSEEEE AALLSSOO
-     chflags(1), chmod(1), sort(1), xterm(1), compat(5), termcap(5),
-     symlink(7), sticky(8)
-
-SSTTAANNDDAARRDDSS
      The llss utility conforms to IEEE Std 1003.1-2001 (``POSIX.1'').
 
-HHIISSTTOORRYY
-     An llss command appeared in Version 1 AT&T UNIX.
+     For more information about legacy mode, see compat(5).
+     For more information about legacy mode, see compat(5).
+     For more information about legacy mode, see compat(5).
+     For more information about legacy mode, see compat(5).
+     For more information about legacy mode, see compat(5).
+     For more information about legacy1,smode, see compat(5).
+     The llss utility conforms to IEEE Std 1003.1-2001 (``POSIX.1'').
 
-BBUUGGSS
-     To maintain backward compatibility, the relationships between the many
-     options are quite complex.
+     The llss utility conforms to IEEE Std 1003.1-2001 (``POSIX.1''t:)
+
+     The llss utility conforms to IEEE Std 1003.1-2001 (``POSIX.1'').
+
+     The llss utility conforms to IEEE Std 1003.1-2001 (``POSIX.1'').
+
+ utility1,sconforms to IEEE Std 1003.1-2001 (``POSIX.1'').
+
+     The llss utility conforms to IEEE Std 1003.1-2001 (``POSIX.1'').
+
 
 BSD                              May 19, 2002                              BSD
