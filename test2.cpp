@@ -1,19 +1,15 @@
-include <iostream>
+#include <iostream>
+#include <string>
 using namespace std;
 
-int check(int c){
-
-    if(c==3){
-        return 10;
-    }
-    int temp =100;
-    return temp;
-
+void 
+go(int a[]){
+    a[0] = 10;
 }
-
 int main(){
 
-    int temp =check(3);
-    cout<<temp<<'\n';
+    int a[10] = {1,2,3,4};
+    go(a);
+    cout<<a[0]<<'\n';
 
 }
